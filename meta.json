@@ -1,0 +1,10 @@
+{
+  "siteTitle": {
+    "uk": "Steam Акаунти",
+    "ru": "Steam Аккаунты",
+    "en": "Steam Accounts"
+  },
+  "accent": "#1a9fff",
+  "accent2": "#66c0f4",
+  "accentGlow": "rgba(26, 159, 255, 0.45)"
+}

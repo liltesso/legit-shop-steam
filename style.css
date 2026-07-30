@@ -1,0 +1,171 @@
+/* Steam Акаунти — category accent on top of ../design-system.css */
+
+:root {
+  --accent: #1a9fff;
+  --accent-2: #66c0f4;
+  --accent-glow: rgba(26, 159, 255, 0.45);
+}
+
+.app-container {
+  width: 100%;
+  max-width: 720px;
+  margin: 0 auto;
+  min-height: 100dvh;
+  display: flex;
+  flex-direction: column;
+  padding: 16px 16px 140px;
+  gap: 16px;
+}
+
+.app-header {
+  position: sticky;
+  top: 12px;
+  z-index: 20;
+  padding: 16px 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logo-text h1 {
+  font-size: 22px;
+}
+
+.logo-text h1 span {
+  color: var(--accent-2);
+  font-weight: 600;
+}
+
+.online-status {
+  display: block;
+  margin-top: 4px;
+  font-size: 12px;
+  color: var(--fg-dim);
+}
+
+.pulse-dot {
+  display: inline-block;
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #34d399;
+  margin-right: 6px;
+  box-shadow: 0 0 8px #34d399;
+}
+
+.cards-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(150px, 1fr));
+  gap: 14px;
+}
+
+.product-card {
+  padding: 18px;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  animation: fadeInUp 0.3s ease both;
+}
+
+.product-emoji {
+  font-size: 32px;
+  line-height: 1;
+}
+
+.product-name {
+  font-size: 15px;
+  font-weight: 700;
+}
+
+.product-desc {
+  font-size: 12px;
+  color: var(--fg-dim);
+  flex: 1;
+}
+
+.product-footer {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-top: 6px;
+}
+
+.product-price {
+  font-weight: 800;
+  font-size: 15px;
+}
+
+.qty-control {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  background: rgba(255, 255, 255, 0.06);
+  border-radius: 12px;
+  padding: 4px;
+}
+
+.qty-btn {
+  width: 26px;
+  height: 26px;
+  border-radius: 8px;
+  border: none;
+  background: rgba(255, 255, 255, 0.08);
+  color: var(--fg);
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.qty-btn:active {
+  transform: scale(0.92);
+}
+
+.qty-value {
+  min-width: 16px;
+  text-align: center;
+  font-weight: 700;
+  font-size: 13px;
+}
+
+.app-footer {
+  position: fixed;
+  left: 16px;
+  right: 16px;
+  bottom: calc(16px + env(safe-area-inset-bottom));
+  max-width: 688px;
+  margin: 0 auto;
+  padding: 14px 18px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 14px;
+  z-index: 30;
+}
+
+.footer-summary {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.cart-count-badge {
+  font-size: 11px;
+  color: var(--fg-dim);
+}
+
+.cart-total {
+  font-size: 18px;
+  font-weight: 800;
+}
+
+.buy-btn {
+  padding: 14px 22px;
+  font-size: 14px;
+  white-space: nowrap;
+}
+
+.buy-btn:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+  transform: none !important;
+  box-shadow: none !important;
+}

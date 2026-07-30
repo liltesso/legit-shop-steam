@@ -1,0 +1,62 @@
+{
+  "category": "steam",
+  "currency": "$",
+  "items": [
+    {
+      "id": "st_prime",
+      "emoji": "🔫",
+      "name": { "uk": "CS2 Prime Status", "ru": "CS2 Prime Status", "en": "CS2 Prime Status" },
+      "desc": { "uk": "Активація Prime на новий Steam-акаунт", "ru": "Активация Prime на новый Steam-аккаунт", "en": "Prime activation on a new Steam account" },
+      "price": 4.20
+    },
+    {
+      "id": "st_bal5",
+      "emoji": "💵",
+      "name": { "uk": "Поповнення балансу $5", "ru": "Пополнение баланса $5", "en": "Balance top-up $5" },
+      "desc": { "uk": "Гаманець Steam, регіон Global", "ru": "Кошелёк Steam, регион Global", "en": "Steam wallet, Global region" },
+      "price": 5.78
+    },
+    {
+      "id": "st_bal10",
+      "emoji": "💵",
+      "name": { "uk": "Поповнення балансу $10", "ru": "Пополнение баланса $10", "en": "Balance top-up $10" },
+      "desc": { "uk": "Гаманець Steam, регіон Global", "ru": "Кошелёк Steam, регион Global", "en": "Steam wallet, Global region" },
+      "price": 11.55
+    },
+    {
+      "id": "st_bal25",
+      "emoji": "💵",
+      "name": { "uk": "Поповнення балансу $25", "ru": "Пополнение баланса $25", "en": "Balance top-up $25" },
+      "desc": { "uk": "Гаманець Steam, регіон Global", "ru": "Кошелёк Steam, регион Global", "en": "Steam wallet, Global region" },
+      "price": 28.35
+    },
+    {
+      "id": "st_gta5",
+      "emoji": "🚗",
+      "name": { "uk": "GTA V (Steam key)", "ru": "GTA V (Steam key)", "en": "GTA V (Steam key)" },
+      "desc": { "uk": "Ліцензійний ключ, миттєва активація", "ru": "Лицензионный ключ, мгновенная активация", "en": "Licensed key, instant activation" },
+      "price": 20.55
+    },
+    {
+      "id": "st_rust",
+      "emoji": "🪓",
+      "name": { "uk": "Rust (Steam key)", "ru": "Rust (Steam key)", "en": "Rust (Steam key)" },
+      "desc": { "uk": "Ліцензійний ключ, миттєва активація", "ru": "Лицензионный ключ, мгновенная активация", "en": "Licensed key, instant activation" },
+      "price": 8.40
+    },
+    {
+      "id": "st_dota_mmr",
+      "emoji": "🏆",
+      "name": { "uk": "Dota 2 — буст ММР +500", "ru": "Dota 2 — буст ММР +500", "en": "Dota 2 — MMR boost +500" },
+      "desc": { "uk": "Виконання на вашому акаунті", "ru": "Выполнение на вашем аккаунте", "en": "Performed on your own account" },
+      "price": 15.75
+    },
+    {
+      "id": "st_acc_ready",
+      "emoji": "🧳",
+      "name": { "uk": "Готовий акаунт (5+ ігор)", "ru": "Готовый аккаунт (5+ игр)", "en": "Ready-made account (5+ games)" },
+      "desc": { "uk": "Steam Level 5+, без прив'язки телефону", "ru": "Steam Level 5+, без привязки телефона", "en": "Steam Level 5+, no phone attached" },
+      "price": 12.60
+    }
+  ]
+}

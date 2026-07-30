@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no, viewport-fit=cover">
+  <title>Steam Акаунти & Ключі — Legit Assets</title>
+  <meta name="description" content="Steam Prime, ключі ігор, поповнення балансу та готові акаунти від Legit Assets">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="https://liltesso.github.io/legit-assets-shared/design-system.css">
+  <link rel="stylesheet" href="../style.css">
+  <link rel="stylesheet" href="https://liltesso.github.io/legit-assets-shared/site-admin.css">
+</head>
+<body>
+  <div class="app-container">
+    <header class="app-header glass-card">
+      <div class="logo-zone">
+        <div class="logo-text">
+          <h1 data-i18n="siteTitle">Steam Аккаунты</h1>
+          <span class="online-status"><span class="pulse-dot"></span> <span data-i18n="inStock">В наличии</span></span>
+        </div>
+      </div>
+    </header>
+
+    <main class="app-content">
+      <section id="cardsGrid" class="cards-grid"></section>
+    </main>
+
+    <footer class="app-footer glass-card">
+      <div class="footer-summary">
+        <span class="cart-count-badge"><span id="cartCount">0</span> <span id="cartPcs">шт.</span></span>
+        <span class="cart-total" id="cartTotal">$0.00</span>
+      </div>
+      <button id="buyBtn" class="btn-primary buy-btn tap-target" disabled data-i18n="buy">Оформити через бота</button>
+    </footer>
+  </div>
+
+  <script src="https://liltesso.github.io/legit-assets-shared/i18n.js"></script>
+  <script>
+    window.LA_SITE_STRINGS = {
+      siteTitle: { uk: 'Steam Акаунти', ru: 'Steam Аккаунты', en: 'Steam Accounts' }
+    };
+    window.LA_CONFIG = {
+      category: 'steam',
+      currency: '$',
+      productsFile: '../products.json',
+      metaFile: '../meta.json',
+      availabilityFile: '../availability.json',
+      sharedConfigPath: 'https://liltesso.github.io/legit-assets-shared/shared-config.json'
+    };
+  </script>
+  <script src="https://liltesso.github.io/legit-assets-shared/catalog-engine.js"></script>
+  <script src="https://liltesso.github.io/legit-assets-shared/site-admin.js"></script>
+</body>
+</html>
