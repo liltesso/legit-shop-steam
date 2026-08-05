@@ -95,53 +95,7 @@
   font-size: 15px;
 }
 
-.qty-control {
-  display: flex;
-  align-items: center;
-  gap: 2px;
-  background: rgba(255, 255, 255, 0.05);
-  border: 1px solid var(--glass-border);
-  border-radius: 14px;
-  padding: 3px;
-}
-
-.qty-btn {
-  width: 28px;
-  height: 28px;
-  border-radius: 10px;
-  border: none;
-  background: rgba(255, 255, 255, 0.07);
-  color: var(--fg);
-  font-size: 15px;
-  font-weight: 600;
-  cursor: pointer;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  transition: background 0.15s ease, transform 0.1s ease;
-}
-
-.qty-btn:hover {
-  background: rgba(255, 255, 255, 0.14);
-}
-
-.qty-btn:active {
-  transform: scale(0.9);
-  background: rgba(255, 255, 255, 0.18);
-}
-
-.qty-btn:disabled {
-  opacity: 0.3;
-  cursor: default;
-}
-
-.qty-value {
-  min-width: 22px;
-  text-align: center;
-  font-weight: 700;
-  font-size: 14px;
-  font-variant-numeric: tabular-nums;
-}
+/* qty-control / qty-btn / qty-value now live in the shared design-system.css (Add-button -> compact stepper) */
 
 .app-footer {
   position: fixed;
