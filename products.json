@@ -4,59 +4,124 @@
   "items": [
     {
       "id": "st_prime",
-      "emoji": "🔫",
-      "name": { "uk": "CS2 Prime Status", "ru": "CS2 Prime Status", "en": "CS2 Prime Status" },
-      "desc": { "uk": "Активація Prime на новий Steam-акаунт", "ru": "Активация Prime на новый Steam-аккаунт", "en": "Prime activation on a new Steam account" },
-      "price": 4.20
+      "emoji": "❤️",
+      "name": {
+        "uk": "CS2 Prime Status",
+        "ru": "CS2 Prime Status",
+        "en": "CS2 Prime Status"
+      },
+      "desc": {
+        "uk": "Активація Prime на новий Steam-акаунт",
+        "ru": "Активация Prime на новый Steam-аккаунт",
+        "en": "Prime activation on a new Steam account"
+      },
+      "price": 4.2,
+      "emojiImage": "data:image/webp;base64,UklGRn4HAABXRUJQVlA4WAoAAAAQAAAAfwAAfwAAQUxQSPQCAAABoEPbtrE9u3Hy27ZV2jYq27Zt21Zn27ZtO7az9m2e53uvzo2LiJgAN+PzLOsfesalN96a/y1Xn3/iTssUt8xJz/5H2aO/uHnHHsXMddoX2Dj0vo2LWOzuURj61R7ZzXrnODpUwV3B91vmtW9/2mVhGzw+fz79HqFdZrYwYOtcVvmFVpnaYOLleaw3mKasbaD7c9huJE0ZDKCXuidbbySAbAbQk6lWHgwgqwF0Z5q+PwPIbgAdmuQhAFkOMHq1BPsAyHaAb+PN+n8FBHBGtNsAZD4wfKFIi44FVAXujHQHdRAwaoEoc44CVAmuj3IStRDwb5RPAVWDbSMsTT0EPBDhWEAV+SvCE3n4ZhrfzILlwv5O5zuP4ztOJODooH6k8uFhPjjZLUHrpPIxA3zURC8FHQAovo/diY+c5qegk4rwXfnoSf4LOj+JT9jmE6YYEXR1Cp+04ZMmmBh0XQKfWPKFYIdPbYAvvX4+m2snW/zkn59cuma6v6unXFSappiummJReZrMkwWqxJWTMypJtZMVmmxTVlekUf1UhmonW1Q/5afcLjdH9igzWaT6KScZpXxUwmV5KBfVTpYpC9mm+imdSrk0H6VSBZRGVVAKVULxVA3FUlGXWKCaKIoKOzs3RVBuo4KOy05Byq5/0IH5KUD5/RK0ZQHqSAW8FbQYQG7qQCXcHeSGl6AuVMSpYW8XITWUP8CmYRcWUigwqmfYxgAVecWFd+9fD4BjI7ibqjJu3hirA1TjaRf1nVoAbBZnO4BKvOcifwJgH8C2sdZRDQCecdHvFmAcwKil4s31pwD7TnIJ150gwDKAp1zSkyXALoBf50rjbpIAqwD6L+9SPygBJtEcvrpL3u1eCTCIZv/VXY6XSQDW0Px1eZfnrsNE0xJan5zL5brsB2qAEbSPOsHlfNjgFqA4un5qSZf3vJcPa7Pyna1c/nOd+6sZ4x7fxBW64a0/GjDyhaPmdiUvvvfFD3/x++AJJYz878fXbjtho55uZodWUDggZAQAAJAcAJ0BKoAAgAA+USKNRKOiIRUN/UQ4BQSgcIZ/7Fb7v8B1YZHfX86X1rL3ep8of8b1u+kvzAP1e6efmA/aD1ffRF/k/UA/r3+q63P0GvLl9nn90PSOrw/gSG7hfPpf7BuPTT0bpgponlTURNNjcVWbmvWz7PbXfp68Jp+X/No2CenMdeXRfcLj/F1zwJ2IDSa7jC9q7qG85G24PuOCVk7qHXOXIfjqDPJZSJVnWC0UTKeYmFA6hhAbxrVYnTMVH0aKVrWOOhx8arDbtuWG2SvMVZfAVCvjrd3mHa50bneaEW/UN5MjqJhLs/4gwAD+/keBw8Kos1FrsIMKqG/n3XiYjlVwO4FekvcIJ/0AX4Y/q8TBLdbLE4nNZ3fXHUfJ3igcuX8r0fklvLyH+QNjNKXB0pQbibjwZwMJhqsnMe+8HuHr/P5yJRH8mDkTI18UkAciCFg+qPG+NzLeMVg61Idht/MPFb+IIJ1wwvw+Q7cix2f+vfxup25kXJOUwSkhPHpNzb/2CRfukkk/c59qGacRD0bGjx2P9r2EDu1MKQknvUNGQ8mY/FfQ1z0vgG26bC5h5bvZmVgTtORsMS7ZrSWmDP0E93nkaJpFAdIC3Bkzw4D8m8yI3cVnztn1HgP7MBWA2RAzxOmJxx8XKBQ2zJfG9Tf/2jdrxUP7SdW6R8mZjKn8EAt6xHDC/qnfrdLbf3/+8Ga30Zt3Pln90gsiEFuQGo+53DF8ptGWfzwHLGNzru8//lqussdcHzT9/N9zzbnpfU2iw77WPPvc6sXThG49600ZoA8jJEzz+3qo9ql9Y8dJrlWgTPWKsjQBTPk1gQdBuMQQLbUto0ERt9azyWTyZl/Yk8uatJ6HzW1CeR/P9mrAgVAxG8GbG1h71bz2G6aUVF9CCRvj8/J1E80u//90nNRHOFHE0O16x5tex8efyo6XhDc3hhWrWvqLyENnWyN7hhu5dH3Yz7IpDwua4ipPECI4aRDCdI+XVZabF2tSbjYbfwIWW6V1EDhn7Ygete/7wgjT07GmBVPB9lq7+7g+DnuQSzkpGs34iqrZNPwm+0AtLzPnpt9FUjL7gc8bpQbrNzoqqB3hj0+/gXqEacGdrwTHfpLHG625os7ULvdd0kEaSd/mTIBgGEtCI6LX+sure8a41Qa4gCeasnCmiCwzJiQIthD5b4ny5xkVnst2v9MwKTR1ieD8E5o+quRLyvF8jSOB2haVa6fDTf9D87t7EYui+RgKDUJR3z4yttge8ORNr3ghpB76y6lSKI6xTVjHGtfMbHa4AqL66BoE4C9U0QjvuwnSrGV3sIojjhqG7Wftr4uWYkUnPLMmlkrBFley2BhhFaekiUIrkFkhmUzA8OBEHFoEZwxmcgl2YEeXL07sI3lZov/5fkgW0u6zpGzgWog9CXp/l8fRA4uudqWf9OBAQB9igstpnmRiv8SN5ChEvtzoF7x5v5WKOwLO+H+5kmT3Ks1JYyMAsWMpr1nF7bQA"
     },
     {
       "id": "st_bal5",
       "emoji": "💵",
-      "name": { "uk": "Поповнення балансу $5", "ru": "Пополнение баланса $5", "en": "Balance top-up $5" },
-      "desc": { "uk": "Гаманець Steam, регіон Global", "ru": "Кошелёк Steam, регион Global", "en": "Steam wallet, Global region" },
+      "name": {
+        "uk": "Поповнення балансу $5",
+        "ru": "Пополнение баланса $5",
+        "en": "Balance top-up $5"
+      },
+      "desc": {
+        "uk": "Гаманець Steam, регіон Global",
+        "ru": "Кошелёк Steam, регион Global",
+        "en": "Steam wallet, Global region"
+      },
       "price": 5.78
     },
     {
       "id": "st_bal10",
       "emoji": "💵",
-      "name": { "uk": "Поповнення балансу $10", "ru": "Пополнение баланса $10", "en": "Balance top-up $10" },
-      "desc": { "uk": "Гаманець Steam, регіон Global", "ru": "Кошелёк Steam, регион Global", "en": "Steam wallet, Global region" },
+      "name": {
+        "uk": "Поповнення балансу $10",
+        "ru": "Пополнение баланса $10",
+        "en": "Balance top-up $10"
+      },
+      "desc": {
+        "uk": "Гаманець Steam, регіон Global",
+        "ru": "Кошелёк Steam, регион Global",
+        "en": "Steam wallet, Global region"
+      },
       "price": 11.55
     },
     {
       "id": "st_bal25",
       "emoji": "💵",
-      "name": { "uk": "Поповнення балансу $25", "ru": "Пополнение баланса $25", "en": "Balance top-up $25" },
-      "desc": { "uk": "Гаманець Steam, регіон Global", "ru": "Кошелёк Steam, регион Global", "en": "Steam wallet, Global region" },
+      "name": {
+        "uk": "Поповнення балансу $25",
+        "ru": "Пополнение баланса $25",
+        "en": "Balance top-up $25"
+      },
+      "desc": {
+        "uk": "Гаманець Steam, регіон Global",
+        "ru": "Кошелёк Steam, регион Global",
+        "en": "Steam wallet, Global region"
+      },
       "price": 28.35
     },
     {
       "id": "st_gta5",
       "emoji": "🚗",
-      "name": { "uk": "GTA V (Steam key)", "ru": "GTA V (Steam key)", "en": "GTA V (Steam key)" },
-      "desc": { "uk": "Ліцензійний ключ, миттєва активація", "ru": "Лицензионный ключ, мгновенная активация", "en": "Licensed key, instant activation" },
+      "name": {
+        "uk": "GTA V (Steam key)",
+        "ru": "GTA V (Steam key)",
+        "en": "GTA V (Steam key)"
+      },
+      "desc": {
+        "uk": "Ліцензійний ключ, миттєва активація",
+        "ru": "Лицензионный ключ, мгновенная активация",
+        "en": "Licensed key, instant activation"
+      },
       "price": 20.55
     },
     {
       "id": "st_rust",
       "emoji": "🪓",
-      "name": { "uk": "Rust (Steam key)", "ru": "Rust (Steam key)", "en": "Rust (Steam key)" },
-      "desc": { "uk": "Ліцензійний ключ, миттєва активація", "ru": "Лицензионный ключ, мгновенная активация", "en": "Licensed key, instant activation" },
-      "price": 8.40
+      "name": {
+        "uk": "Rust (Steam key)",
+        "ru": "Rust (Steam key)",
+        "en": "Rust (Steam key)"
+      },
+      "desc": {
+        "uk": "Ліцензійний ключ, миттєва активація",
+        "ru": "Лицензионный ключ, мгновенная активация",
+        "en": "Licensed key, instant activation"
+      },
+      "price": 8.4
     },
     {
       "id": "st_dota_mmr",
       "emoji": "🏆",
-      "name": { "uk": "Dota 2 — буст ММР +500", "ru": "Dota 2 — буст ММР +500", "en": "Dota 2 — MMR boost +500" },
-      "desc": { "uk": "Виконання на вашому акаунті", "ru": "Выполнение на вашем аккаунте", "en": "Performed on your own account" },
+      "name": {
+        "uk": "Dota 2 — буст ММР +500",
+        "ru": "Dota 2 — буст ММР +500",
+        "en": "Dota 2 — MMR boost +500"
+      },
+      "desc": {
+        "uk": "Виконання на вашому акаунті",
+        "ru": "Выполнение на вашем аккаунте",
+        "en": "Performed on your own account"
+      },
       "price": 15.75
     },
     {
       "id": "st_acc_ready",
       "emoji": "🧳",
-      "name": { "uk": "Готовий акаунт (5+ ігор)", "ru": "Готовый аккаунт (5+ игр)", "en": "Ready-made account (5+ games)" },
-      "desc": { "uk": "Steam Level 5+, без прив'язки телефону", "ru": "Steam Level 5+, без привязки телефона", "en": "Steam Level 5+, no phone attached" },
-      "price": 12.60
+      "name": {
+        "uk": "Готовий акаунт (5+ ігор)",
+        "ru": "Готовый аккаунт (5+ игр)",
+        "en": "Ready-made account (5+ games)"
+      },
+      "desc": {
+        "uk": "Steam Level 5+, без прив'язки телефону",
+        "ru": "Steam Level 5+, без привязки телефона",
+        "en": "Steam Level 5+, no phone attached"
+      },
+      "price": 12.6
     }
   ]
 }
