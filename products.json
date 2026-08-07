@@ -3,125 +3,172 @@
   "currency": "$",
   "items": [
     {
-      "id": "st_prime",
-      "emoji": "👤",
+      "id": "st_witcher3",
+      "emoji": "🗡️",
       "name": {
-        "uk": "CS2 Prime Status",
-        "ru": "CS2 Prime Status",
-        "en": "CS2 Prime Status"
+        "uk": "Steam-акаунт з The Witcher 3",
+        "ru": "Steam-аккаунт с The Witcher 3",
+        "en": "Steam account with The Witcher 3"
       },
       "desc": {
-        "uk": "Активація Prime на новий Steam-акаунт",
-        "ru": "Активация Prime на новый Steam-аккаунт",
-        "en": "Prime activation on a new Steam account"
+        "uk": "Автопідбір з наявних лотів, миттєва видача логіну й пароля",
+        "ru": "Автоподбор из имеющихся лотов, мгновенная выдача логина и пароля",
+        "en": "Auto-picked from live listings, instant login/password delivery"
       },
-      "price": 4.2,
-      "emojiImage": "data:image/webp;base64,UklGRmAHAABXRUJQVlA4WAoAAAAQAAAAfwAAfwAAQUxQSOECAAABoENtu2m7mrGdXNssbRuVbdu2bauzbdu2Hdt5v2atkznnP/95XUTEBIT/PvdZY78Tz7vqOvvXXnLGUVsvWtyiRz/2O2VP/vCarboWM+j4D/Fx7O3rFDH/LZNw9OMdzfW9aRqzqYI7gi82srXbcNrlYRs8MIed3vfSLjdbGLGJlWW/pVWuNph5gY3VR9OUtw10h4XNJ9KUwwB6uku21ScCyGcAPZRrmdEA8hpAN+Xp9Q2A/AbQflnuBpDnAJOXz7ArgHwH+KxTsr5/VEAAJya7HkDuA+PnTjTfVEBV4KZEN1IHAZPmTDJwEqBKcEWSo6mFgN+SvAeoGmyWYBHqIeDOBIcBqsjPCR4sAZAEUACLx/1iDjS7gCkBh0T1xhgoGoxdG7WqMZQSbD0dtScguygxpr6OOtoUSo6l36POsIQyYmhC1CWWslqaGXW5IbIIOxTkYlnk4k/bZXZ8LIp8/F1z6b8mnHSNYi6xw18+kQdVwMUkF1siB3UQ6VAlRCpUDZEGVUSkQGVdZE0iBpn2QYKOQMa9KPlviQv/9XOBPYCOAKoCSgw1AGUG10AmwStkmALOzwYyDs6gAvEEFYobqFicQAVj6LwMqGgcQIVTns+mKI/SnE5y7l++U6ozKerw6gyP2qs630ZtVJ2Xo+YHqMotUWF8Ksoj1XFxr6TyGWC9uLPSURbJJnWLWwcgjcfAsyG+y/B6AByWIFxdlWlDU6wAUI1HQtJXawGwfprNASrxekj8LoB/AJulWlU1AHg0JL9FgHMAkxZON+gnAf4dHTKuNkOAZwAPh6zHSIBfAN8NyhOulgCvAIYvEXLfJQEu0Ry/Qsje+TYJcIjm8BWCxfMlAG9ofrdEsLndONH0hNaHBgWri72pBjhB+6Qjg+FO+49uAYqj44cXCraHXjCuzctXNw72B532nRvTHlg3FLrWdV85MPHJgweHkhfY5Zx7Pvxh9IwSJv7+1fPXH7l2t/B/hwBWUDggWAQAAHAbAJ0BKoAAgAA+USKMRKOiIRYNVWQ4BQSgcHmx5gm7PsZso5tbpqWa8N5p8+H+l9YnmAfqN03fMX5vnpo/0nqAf1L/VdbL6DXlv+zf+5fpGYab7YYvJgUrbQY2Ft5Z4cD7eeLmL9YnkaGhAkQP4txPrRRb1nAO0wxwn9l5TKXoX6xZ/4wn8+w5A5KWrAEtX/rgPkPVVArGrWJy+Z5G/ynFrqG8WDIN9fx0tOka1l5LWPTlaQadV0+7C1IvWd8aXQ67Pww/37b3iDEZTNoF+29fab1qMg6Hdm7gY98wFa3tlC9wAAD+/nyU0+ofP4oJhdO/EUj79t+dd03+NcE68HrSfPvG/lfB/jOv/tqYZUbgeZk2KqOjJ54VbKo5kI2+Tv4lrXG97/R+ADyOVD+UY+olv4+N6QrCMtw3k1dbUexxQ+bWYDj4pR8dAn21cPJxNn5+5RZjj98l6sYAnhijalIRPUi/5wTXU6FINyfQrvhFst/tXw5/uCkQEDSCRM8a6foMvFx/0ylmlKvh+i1Z99+N1MkCBwPqMuXKzDhamIoorjrmr8keUWaeRfNqlS6rKl1R1bQF7UIvvX1ANvi90vSg0GgBPocOrxd/PiYwbxfvy7DZGTwRpHh9g/q5d40tTNf71p7ed2SKpnpLYZPYctAOMLx+S/9+IFKU/W1b8pU/4rUcMYw1djzofNgADWb3qTnvenEWgAwqURxhZW3sIrrdtAe/WmFh3in7fEy2n6/ZTmhCrz9snTQ+6DO4+I32mswWbm+DBeFKl+6YQ84hFTh9h7xFLxpsuunWHRZ+OpjP9F5x1arKXx0IM3u1+6d4JdcmA4ulOXeJ+Gu9fSngRUtom4eKv2sAUaoS+dgQOG6B6aAXNbAlOJvJynHJpmmt0U13/w84CN6pyCUpyD0bbERCDngwAO/3R9uz/wYYEdgyp8hrGvF92gpZ05tYm0kJtcYjnO4Q7ucYAm69Mk9+ppFePeGoo4XJ9ICZugyW21cMEQeOBREsR5HsNSsFbXmI0ji0XyC5CZGB1rzN+d2E2ayFCN4dlXPf7ZqH42jXXgj3yISF9bSc1f4lM3KiU1oPmPega9qFmpK1Y7VOM6oM7yVC5wECaRDWS4USRapg1fBzBSLyNtnjfflHQ0VdQ3k9LSomoturgyNZvbOLHV21DTttFR1fNS0gmAERelq+knadn/qGtxFxgHvMdI6CoL3QkipsZiqIzEQsi64iLuFQ2rUoPsO8H6LrgC3SipSIL5A9cgtQNNFnVUvH/PSPltsEmV4fxWeqmnywyNQOYrAQItEyt3gVGWuF9AsrmjI2m2BQ46rRFQgHVfhJWsFoDyd5qSlOM055TxFjPsTkdP8N/HP49ipi6OXbo/oml7GOPt5f+eEj8bqWqNunVUIfzzBvx+PKPjyLn8harf6XaxmFT5Y5sm5DoxtR5woADZOLqsVELKBqxqpltus2bc22TP+gRvSzQg4AAAAA"
+      "price": 60,
+      "lzt": {
+        "category": "steam",
+        "game_id": 292030,
+        "max_price_rub": 60,
+        "price_uah": 60
+      }
     },
     {
-      "id": "st_bal5",
-      "emoji": "💵",
+      "id": "st_terraria",
+      "emoji": "⛏️",
       "name": {
-        "uk": "Поповнення балансу $5",
-        "ru": "Пополнение баланса $5",
-        "en": "Balance top-up $5"
+        "uk": "Steam-акаунт з Terraria",
+        "ru": "Steam-аккаунт с Terraria",
+        "en": "Steam account with Terraria"
       },
       "desc": {
-        "uk": "Гаманець Steam, регіон Global",
-        "ru": "Кошелёк Steam, регион Global",
-        "en": "Steam wallet, Global region"
+        "uk": "Автопідбір з наявних лотів, миттєва видача логіну й пароля",
+        "ru": "Автоподбор из имеющихся лотов, мгновенная выдача логина и пароля",
+        "en": "Auto-picked from live listings, instant login/password delivery"
       },
-      "price": 5.78
+      "price": 30,
+      "lzt": {
+        "category": "steam",
+        "game_id": 105600,
+        "max_price_rub": 30,
+        "price_uah": 30
+      }
     },
     {
-      "id": "st_bal10",
-      "emoji": "💵",
+      "id": "st_pubg",
+      "emoji": "🪖",
       "name": {
-        "uk": "Поповнення балансу $10",
-        "ru": "Пополнение баланса $10",
-        "en": "Balance top-up $10"
+        "uk": "Steam-акаунт з PUBG",
+        "ru": "Steam-аккаунт с PUBG",
+        "en": "Steam account with PUBG"
       },
       "desc": {
-        "uk": "Гаманець Steam, регіон Global",
-        "ru": "Кошелёк Steam, регион Global",
-        "en": "Steam wallet, Global region"
+        "uk": "Автопідбір з наявних лотів, миттєва видача логіну й пароля",
+        "ru": "Автоподбор из имеющихся лотов, мгновенная выдача логина и пароля",
+        "en": "Auto-picked from live listings, instant login/password delivery"
       },
-      "price": 11.55
+      "price": 80,
+      "lzt": {
+        "category": "steam",
+        "game_id": 578080,
+        "max_price_rub": 80,
+        "price_uah": 80
+      }
     },
     {
-      "id": "st_bal25",
-      "emoji": "💵",
+      "id": "st_cyberpunk",
+      "emoji": "🌆",
       "name": {
-        "uk": "Поповнення балансу $25",
-        "ru": "Пополнение баланса $25",
-        "en": "Balance top-up $25"
+        "uk": "Steam-акаунт з Cyberpunk 2077",
+        "ru": "Steam-аккаунт с Cyberpunk 2077",
+        "en": "Steam account with Cyberpunk 2077"
       },
       "desc": {
-        "uk": "Гаманець Steam, регіон Global",
-        "ru": "Кошелёк Steam, регион Global",
-        "en": "Steam wallet, Global region"
+        "uk": "Автопідбір з наявних лотів, миттєва видача логіну й пароля",
+        "ru": "Автоподбор из имеющихся лотов, мгновенная выдача логина и пароля",
+        "en": "Auto-picked from live listings, instant login/password delivery"
       },
-      "price": 28.35
+      "price": 200,
+      "lzt": {
+        "category": "steam",
+        "game_id": 1091500,
+        "max_price_rub": 200,
+        "price_uah": 200
+      }
     },
     {
-      "id": "st_gta5",
-      "emoji": "🚗",
+      "id": "st_cs2",
+      "emoji": "🔫",
       "name": {
-        "uk": "GTA V (Steam key)",
-        "ru": "GTA V (Steam key)",
-        "en": "GTA V (Steam key)"
+        "uk": "Steam-акаунт з CS2",
+        "ru": "Steam-аккаунт с CS2",
+        "en": "Steam account with CS2"
       },
       "desc": {
-        "uk": "Ліцензійний ключ, миттєва активація",
-        "ru": "Лицензионный ключ, мгновенная активация",
-        "en": "Licensed key, instant activation"
+        "uk": "Автопідбір з наявних лотів, миттєва видача логіну й пароля",
+        "ru": "Автоподбор из имеющихся лотов, мгновенная выдача логина и пароля",
+        "en": "Auto-picked from live listings, instant login/password delivery"
       },
-      "price": 20.55
+      "price": 320,
+      "lzt": {
+        "category": "steam",
+        "game_id": 730,
+        "max_price_rub": 320,
+        "price_uah": 320
+      }
     },
     {
       "id": "st_rust",
       "emoji": "🪓",
       "name": {
-        "uk": "Rust (Steam key)",
-        "ru": "Rust (Steam key)",
-        "en": "Rust (Steam key)"
+        "uk": "Steam-акаунт з Rust",
+        "ru": "Steam-аккаунт с Rust",
+        "en": "Steam account with Rust"
       },
       "desc": {
-        "uk": "Ліцензійний ключ, миттєва активація",
-        "ru": "Лицензионный ключ, мгновенная активация",
-        "en": "Licensed key, instant activation"
+        "uk": "Автопідбір з наявних лотів, миттєва видача логіну й пароля",
+        "ru": "Автоподбор из имеющихся лотов, мгновенная выдача логина и пароля",
+        "en": "Auto-picked from live listings, instant login/password delivery"
       },
-      "price": 8.4
+      "price": 330,
+      "lzt": {
+        "category": "steam",
+        "game_id": 252490,
+        "max_price_rub": 330,
+        "price_uah": 330
+      }
     },
     {
-      "id": "st_dota_mmr",
-      "emoji": "🏆",
+      "id": "st_rdr2",
+      "emoji": "🤠",
       "name": {
-        "uk": "Dota 2 — буст ММР +500",
-        "ru": "Dota 2 — буст ММР +500",
-        "en": "Dota 2 — MMR boost +500"
+        "uk": "Steam-акаунт з Red Dead Redemption 2",
+        "ru": "Steam-аккаунт с Red Dead Redemption 2",
+        "en": "Steam account with Red Dead Redemption 2"
       },
       "desc": {
-        "uk": "Виконання на вашому акаунті",
-        "ru": "Выполнение на вашем аккаунте",
-        "en": "Performed on your own account"
+        "uk": "Автопідбір з наявних лотів, миттєва видача логіну й пароля",
+        "ru": "Автоподбор из имеющихся лотов, мгновенная выдача логина и пароля",
+        "en": "Auto-picked from live listings, instant login/password delivery"
       },
-      "price": 15.75
+      "price": 400,
+      "lzt": {
+        "category": "steam",
+        "game_id": 1174180,
+        "max_price_rub": 400,
+        "price_uah": 400
+      }
     },
     {
-      "id": "st_acc_ready",
-      "emoji": "🧳",
+      "id": "st_gta5",
+      "emoji": "🚗",
       "name": {
-        "uk": "Готовий акаунт (5+ ігор)",
-        "ru": "Готовый аккаунт (5+ игр)",
-        "en": "Ready-made account (5+ games)"
+        "uk": "Steam-акаунт з GTA V",
+        "ru": "Steam-аккаунт с GTA V",
+        "en": "Steam account with GTA V"
       },
       "desc": {
-        "uk": "Steam Level 5+, без прив'язки телефону",
-        "ru": "Steam Level 5+, без привязки телефона",
-        "en": "Steam Level 5+, no phone attached"
+        "uk": "Автопідбір з наявних лотів, миттєва видача логіну й пароля",
+        "ru": "Автоподбор из имеющихся лотов, мгновенная выдача логина и пароля",
+        "en": "Auto-picked from live listings, instant login/password delivery"
       },
-      "price": 12.6
+      "price": 650,
+      "lzt": {
+        "category": "steam",
+        "game_id": 271590,
+        "max_price_rub": 650,
+        "price_uah": 650
+      }
     }
   ]
 }
