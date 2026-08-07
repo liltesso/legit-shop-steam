@@ -1,6 +1,6 @@
 {
   "category": "steam",
-  "currency": "₴",
+  "currency": "$",
   "items": [
     {
       "id": "st_witcher3",
@@ -15,7 +15,7 @@
         "ru": "Автоподбор из имеющихся лотов, мгновенная выдача логина и пароля",
         "en": "Auto-picked from live listings, instant login/password delivery"
       },
-      "price": 279,
+      "price": 6.72,
       "lzt": {
         "category": "steam",
         "game_id": 292030,
@@ -36,7 +36,7 @@
         "ru": "Автоподбор из имеющихся лотов, мгновенная выдача логина и пароля",
         "en": "Auto-picked from live listings, instant login/password delivery"
       },
-      "price": 250,
+      "price": 6.02,
       "lzt": {
         "category": "steam",
         "game_id": 105600,
@@ -57,7 +57,7 @@
         "ru": "Автоподбор из имеющихся лотов, мгновенная выдача логина и пароля",
         "en": "Auto-picked from live listings, instant login/password delivery"
       },
-      "price": 286,
+      "price": 6.89,
       "lzt": {
         "category": "steam",
         "game_id": 578080,
@@ -78,7 +78,7 @@
         "ru": "Автоподбор из имеющихся лотов, мгновенная выдача логина и пароля",
         "en": "Auto-picked from live listings, instant login/password delivery"
       },
-      "price": 519,
+      "price": 12.51,
       "lzt": {
         "category": "steam",
         "game_id": 1091500,
@@ -99,7 +99,7 @@
         "ru": "Автоподбор из имеющихся лотов, мгновенная выдача логина и пароля",
         "en": "Auto-picked from live listings, instant login/password delivery"
       },
-      "price": 677,
+      "price": 16.31,
       "lzt": {
         "category": "steam",
         "game_id": 730,
@@ -120,7 +120,7 @@
         "ru": "Автоподбор из имеющихся лотов, мгновенная выдача логина и пароля",
         "en": "Auto-picked from live listings, instant login/password delivery"
       },
-      "price": 622,
+      "price": 14.99,
       "lzt": {
         "category": "steam",
         "game_id": 252490,
@@ -141,7 +141,7 @@
         "ru": "Автоподбор из имеющихся лотов, мгновенная выдача логина и пароля",
         "en": "Auto-picked from live listings, instant login/password delivery"
       },
-      "price": 1368,
+      "price": 32.96,
       "lzt": {
         "category": "steam",
         "game_id": 1174180,
@@ -162,7 +162,7 @@
         "ru": "Автоподбор из имеющихся лотов, мгновенная выдача логина и пароля",
         "en": "Auto-picked from live listings, instant login/password delivery"
       },
-      "price": 1090,
+      "price": 26.27,
       "lzt": {
         "category": "steam",
         "game_id": 271590,
