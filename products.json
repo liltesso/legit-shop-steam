@@ -15,12 +15,12 @@
         "ru": "Автоподбор из имеющихся лотов, мгновенная выдача логина и пароля",
         "en": "Auto-picked from live listings, instant login/password delivery"
       },
-      "price": 6.8,
+      "price": 6.7,
       "lzt": {
         "category": "steam",
         "game_id": 292030,
-        "max_price_rub": 123,
-        "price_uah": 282
+        "max_price_rub": 145,
+        "price_uah": 278
       }
     },
     {
@@ -40,7 +40,7 @@
       "lzt": {
         "category": "steam",
         "game_id": 105600,
-        "max_price_rub": 72,
+        "max_price_rub": 100,
         "price_uah": 250
       }
     },
@@ -57,12 +57,12 @@
         "ru": "Автоподбор из имеющихся лотов, мгновенная выдача логина и пароля",
         "en": "Auto-picked from live listings, instant login/password delivery"
       },
-      "price": 6.87,
+      "price": 6.55,
       "lzt": {
         "category": "steam",
         "game_id": 578080,
-        "max_price_rub": 128,
-        "price_uah": 285
+        "max_price_rub": 135,
+        "price_uah": 272
       }
     },
     {
@@ -78,12 +78,12 @@
         "ru": "Автоподбор из имеющихся лотов, мгновенная выдача логина и пароля",
         "en": "Auto-picked from live listings, instant login/password delivery"
       },
-      "price": 13.86,
+      "price": 16.1,
       "lzt": {
         "category": "steam",
         "game_id": 1091500,
-        "max_price_rub": 592,
-        "price_uah": 575
+        "max_price_rub": 764,
+        "price_uah": 668
       }
     },
     {
@@ -99,12 +99,12 @@
         "ru": "Автоподбор из имеющихся лотов, мгновенная выдача логина и пароля",
         "en": "Auto-picked from live listings, instant login/password delivery"
       },
-      "price": 14.65,
+      "price": 23.08,
       "lzt": {
         "category": "steam",
         "game_id": 730,
-        "max_price_rub": 648,
-        "price_uah": 608
+        "max_price_rub": 1095,
+        "price_uah": 958
       }
     },
     {
@@ -120,12 +120,12 @@
         "ru": "Автоподбор из имеющихся лотов, мгновенная выдача логина и пароля",
         "en": "Auto-picked from live listings, instant login/password delivery"
       },
-      "price": 16.67,
+      "price": 16.24,
       "lzt": {
         "category": "steam",
         "game_id": 252490,
-        "max_price_rub": 779,
-        "price_uah": 692
+        "max_price_rub": 770,
+        "price_uah": 674
       }
     },
     {
@@ -141,12 +141,12 @@
         "ru": "Автоподбор из имеющихся лотов, мгновенная выдача логина и пароля",
         "en": "Auto-picked from live listings, instant login/password delivery"
       },
-      "price": 39.95,
+      "price": 41.2,
       "lzt": {
         "category": "steam",
         "game_id": 1174180,
-        "max_price_rub": 1894,
-        "price_uah": 1658
+        "max_price_rub": 1954,
+        "price_uah": 1710
       }
     },
     {
@@ -162,12 +162,12 @@
         "ru": "Автоподбор из имеющихся лотов, мгновенная выдача логина и пароля",
         "en": "Auto-picked from live listings, instant login/password delivery"
       },
-      "price": 31.42,
+      "price": 32.05,
       "lzt": {
         "category": "steam",
         "game_id": 271590,
-        "max_price_rub": 1490,
-        "price_uah": 1304
+        "max_price_rub": 1519,
+        "price_uah": 1330
       }
     }
   ]
