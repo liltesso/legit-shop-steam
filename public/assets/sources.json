@@ -1,0 +1,177 @@
+[
+  {
+    "file": "games/cs2-cover.png",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/header.jpg",
+    "format": "PNG",
+    "formatConversion": true,
+    "downloadedAt": "2026-10-05"
+  },
+  {
+    "file": "games/cs2-logo.png",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/logo.png",
+    "format": "PNG",
+    "formatConversion": false,
+    "downloadedAt": "2026-10-05"
+  },
+  {
+    "file": "games/rust-cover.png",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg",
+    "format": "PNG",
+    "formatConversion": true,
+    "downloadedAt": "2026-10-05"
+  },
+  {
+    "file": "games/rust-logo.png",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/logo.png",
+    "format": "PNG",
+    "formatConversion": false,
+    "downloadedAt": "2026-10-05"
+  },
+  {
+    "file": "games/gta5-cover.png",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/header.jpg",
+    "format": "PNG",
+    "formatConversion": true,
+    "downloadedAt": "2026-10-05"
+  },
+  {
+    "file": "games/gta5-logo.png",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/logo.png",
+    "format": "PNG",
+    "formatConversion": false,
+    "downloadedAt": "2026-10-05"
+  },
+  {
+    "file": "games/pubg-cover.png",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/header.jpg",
+    "format": "PNG",
+    "formatConversion": true,
+    "downloadedAt": "2026-10-05"
+  },
+  {
+    "file": "games/pubg-logo.png",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/logo.png",
+    "format": "PNG",
+    "formatConversion": false,
+    "downloadedAt": "2026-10-05"
+  },
+  {
+    "file": "games/cyberpunk-cover.png",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/header.jpg",
+    "format": "PNG",
+    "formatConversion": true,
+    "downloadedAt": "2026-10-05"
+  },
+  {
+    "file": "games/cyberpunk-logo.png",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/logo.png",
+    "format": "PNG",
+    "formatConversion": false,
+    "downloadedAt": "2026-10-05"
+  },
+  {
+    "file": "games/rdr2-cover.png",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg",
+    "format": "PNG",
+    "formatConversion": true,
+    "downloadedAt": "2026-10-05"
+  },
+  {
+    "file": "games/rdr2-logo.png",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/logo.png",
+    "format": "PNG",
+    "formatConversion": false,
+    "downloadedAt": "2026-10-05"
+  },
+  {
+    "file": "games/witcher3-cover.png",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/header.jpg",
+    "format": "PNG",
+    "formatConversion": true,
+    "downloadedAt": "2026-10-05"
+  },
+  {
+    "file": "games/witcher3-logo.png",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/logo.png",
+    "format": "PNG",
+    "formatConversion": false,
+    "downloadedAt": "2026-10-05"
+  },
+  {
+    "file": "games/terraria-cover.png",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg",
+    "format": "PNG",
+    "formatConversion": true,
+    "downloadedAt": "2026-10-05"
+  },
+  {
+    "file": "games/terraria-logo.png",
+    "source": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/logo.png",
+    "format": "PNG",
+    "formatConversion": false,
+    "downloadedAt": "2026-10-05"
+  },
+  {
+    "file": "decor/steam-deck.png",
+    "source": "https://cdn.akamai.steamstatic.com/steamdeck/images/press/renderings/press_oled_orb_thumb.jpg",
+    "format": "PNG",
+    "formatConversion": true,
+    "downloadedAt": "2026-10-05"
+  },
+  {
+    "file": "decor/steam-deck-logo.png",
+    "source": "https://cdn.akamai.steamstatic.com/steamdeck/images/press/logos/steamdeck_logos_comp.png",
+    "format": "PNG",
+    "formatConversion": false,
+    "downloadedAt": "2026-10-05"
+  },
+  {
+    "file": "games/cyberpunk-icon.png",
+    "source": "https://shared.fastly.steamstatic.com/community_assets/images/apps/1091500/6897c3848f3e0350d512f59d5bae174a1e3739f9.jpg",
+    "format": "PNG",
+    "formatConversion": true,
+    "downloadedAt": "2026-10-05"
+  },
+  {
+    "file": "games/cs2-icon.png",
+    "source": "https://shared.fastly.steamstatic.com/community_assets/images/apps/730/8dbc71957312bbd3baea65848b545be9eae2a355.jpg",
+    "format": "PNG",
+    "formatConversion": true,
+    "downloadedAt": "2026-10-05"
+  },
+  {
+    "file": "games/rdr2-icon.png",
+    "source": "https://shared.fastly.steamstatic.com/community_assets/images/apps/1174180/5106abd9c1187a97f23295a0ba9470c94804ec6c.jpg",
+    "format": "PNG",
+    "formatConversion": true,
+    "downloadedAt": "2026-10-05"
+  },
+  {
+    "file": "games/rust-icon.png",
+    "source": "https://shared.fastly.steamstatic.com/community_assets/images/apps/252490/820be4782639f9c4b64fa3ca7e6c26a95ae4fd1c.jpg",
+    "format": "PNG",
+    "formatConversion": true,
+    "downloadedAt": "2026-10-05"
+  },
+  {
+    "file": "games/terraria-icon.png",
+    "source": "https://shared.fastly.steamstatic.com/community_assets/images/apps/105600/858961e95fbf869f136e1770d586e0caefd4cfac.jpg",
+    "format": "PNG",
+    "formatConversion": true,
+    "downloadedAt": "2026-10-05"
+  },
+  {
+    "file": "decor/steam.png",
+    "source": "https://community.akamai.steamstatic.com/public/shared/images/header/globalheader_logo.png",
+    "format": "PNG",
+    "formatConversion": false,
+    "downloadedAt": "2026-10-05"
+  },
+  {
+    "file": "decor/telegram.png",
+    "source": "https://telegram.org/img/t_logo.png",
+    "format": "PNG",
+    "formatConversion": false,
+    "downloadedAt": "2026-10-05"
+  }
+]
